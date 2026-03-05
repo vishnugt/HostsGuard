@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the cron job to add
-cron_job="*/10 * * * * /Users/randomUser/Projects/youtubeBlocker/blockYoutube.sh"
+cron_job="*/10 * * * * /path/to/Block-Youtube-DNS/blockSites.sh"
 
 # Get the current date and time
 current_time=$(date "+%Y-%m-%d %H:%M:%S")
