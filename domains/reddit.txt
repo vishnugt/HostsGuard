@@ -1,0 +1,10 @@
+# Reddit domains
+reddit.com
+www.reddit.com
+old.reddit.com
+new.reddit.com
+redd.it
+www.redd.it
+i.redd.it
+v.redd.it
+preview.redd.it
